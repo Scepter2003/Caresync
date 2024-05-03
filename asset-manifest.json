@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Scepter2003/Caresync/static/css/main.0ef745d8.css",
+    "main.js": "/Scepter2003/Caresync/static/js/main.c9919695.js",
+    "static/js/787.aad84f79.chunk.js": "/Scepter2003/Caresync/static/js/787.aad84f79.chunk.js",
+    "index.html": "/Scepter2003/Caresync/index.html",
+    "main.0ef745d8.css.map": "/Scepter2003/Caresync/static/css/main.0ef745d8.css.map",
+    "main.c9919695.js.map": "/Scepter2003/Caresync/static/js/main.c9919695.js.map",
+    "787.aad84f79.chunk.js.map": "/Scepter2003/Caresync/static/js/787.aad84f79.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0ef745d8.css",
+    "static/js/main.c9919695.js"
+  ]
+}
